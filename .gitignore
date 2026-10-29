@@ -1,0 +1,4 @@
+# No app source, secrets, credentials, binaries or local data
+*
+!README.md
+!.gitignore
