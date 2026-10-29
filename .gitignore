@@ -1,4 +1,6 @@
-# No app source, secrets, credentials, binaries or local data
+# Explicitly allow only the README and curated screenshots in this public repo
 *
 !README.md
 !.gitignore
+!screenshots/
+!screenshots/*.png

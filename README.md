@@ -4,6 +4,18 @@
 
 > **Project status:** Development / testing. This is an information-only repository. The private AstraX Launcher source code is not published here.
 
+## Screenshots
+
+These are real screenshots from the current AstraX Launcher Linux development build. Only application UI is shown; no Microsoft authorization codes, secrets or credentials are included.
+
+**Launcher home:** independent game modules for Genshin Impact, Minecraft Java Edition and Roblox.
+
+![AstraX Launcher home with game modules](screenshots/astrax-home.png)
+
+**Minecraft version manager:** native Minecraft Java instance creation with Mojang version selection and Fabric/Quilt loader choices.
+
+![AstraX Minecraft Java version manager](screenshots/minecraft-version-manager.png)
+
 ## Minecraft Java Edition
 
 AstraX Launcher contains a first-party Minecraft Java Edition module that manages game installations and starts Minecraft directly, without running PolyMC, Prism Launcher, or the official Minecraft Launcher.
